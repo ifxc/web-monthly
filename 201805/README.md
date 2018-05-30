@@ -17,3 +17,7 @@
 #### [Jenkins打造强大的前端自动化工作流](https://mp.weixin.qq.com/s/-pfa8i3RhMl35BmFhaj6Kw)
     这是一篇利用Jenkins打造前端自动化工作流的实践分享。
     Jenkins是一款业界流行的开源持续集成工具，广泛用于项目开发，具有自动化构建、测试和部署等功能。另外还可以用Travis CI做持续集成。
+    
+#### [Web 框架的架构模式探讨](https://mp.weixin.qq.com/s/VzUSB-MYC98NUSdjLVFZ6g)
+    模式是对问题持续归纳抽象总结出的方案，以帮助我们更好的学习、沟通和、思考
+    文章介绍了Middleware，MVC，DI三种架构模式
