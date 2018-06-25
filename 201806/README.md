@@ -17,3 +17,6 @@
 #### [太平洋保险CIMS系统微前端实践](https://mp.weixin.qq.com/s/HHr0ngSs6eBxZ-miYB3U3A)
     微前端是一种将微服务推广到前端的设计理念。
     本文介绍了太平洋保险CIMS系统的背景、演进和微前端实践。
+
+#### [深入了解JavaScript引擎精华](https://mp.weixin.qq.com/s/3Nnvnl7QLbHI7CPb-H3pMQ)
+    主要分为五个部分：JS引擎工作流程、JS对象模型、属性访问的优化、高效存储数组和总结
