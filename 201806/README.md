@@ -13,3 +13,7 @@
 
 #### [TCP/IP--图解从URL到网页通信原理](https://juejin.im/post/5b1265edf265da6e155d45a9)
     一篇TCP/IP协议相关的介绍
+
+#### [太平洋保险CIMS系统微前端实践](https://mp.weixin.qq.com/s/HHr0ngSs6eBxZ-miYB3U3A)
+    微前端是一种将微服务推广到前端的设计理念。
+    本文介绍了太平洋保险CIMS系统的背景、演进和微前端实践。
