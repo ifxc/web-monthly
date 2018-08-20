@@ -7,3 +7,6 @@
 
 #### [聊聊CSS中的层叠相关概念](https://www.w3cplus.com/css/understand-css-stacking-context-order-z-index.html)
     CSS中的层叠相关概念，包括层叠上下文、层叠水平、层叠顺序等。
+
+#### [以Vue为例，解释JavaScript的反应性](https://mp.weixin.qq.com/s/Wm5-3hsqre7ft_f0YBnoeg)
+    以Vue为例，一步步详细的介绍了响应式系统原理，并根据原理实现了系统的基础代码。
