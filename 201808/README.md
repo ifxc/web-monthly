@@ -10,3 +10,6 @@
 
 #### [以Vue为例，解释JavaScript的反应性](https://mp.weixin.qq.com/s/Wm5-3hsqre7ft_f0YBnoeg)
     以Vue为例，一步步详细的介绍了响应式系统原理，并根据原理实现了系统的基础代码。
+
+#### [如何精确统计页面停留时长](https://mp.weixin.qq.com/s/EAakxFjIEl-6YwFnqgPPjQ)
+    一个统计页面停留时长方案。
