@@ -7,3 +7,6 @@
 
 #### [用微前端的方式搭建类单页应用](https://juejin.im/post/5b921b415188255c9031b0c3)
     美团HR系统微前端设计介绍。
+
+#### [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
+    一个前端异常监控解决详细方案。
