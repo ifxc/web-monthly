@@ -10,3 +10,6 @@
 
 #### [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
     一个前端异常监控解决详细方案。
+
+#### [现代浏览器内部揭秘（第一部分）](https://juejin.im/post/5b9b0932e51d450e9059c16a)
+    现代浏览器内部揭秘由四部分组成，这部分主要介绍CPU、GPU、内存和多进程体系结构。
