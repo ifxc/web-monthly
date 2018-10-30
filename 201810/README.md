@@ -11,3 +11,6 @@
 
 #### [JavaScript 响应式原理的最佳解释](https://mp.weixin.qq.com/s/qeo3y8l3tGgVeA4oJbWc_g)
     以vue为例，简单易懂、循序渐进的解释了响应式原理。
+
+#### [Vue番外篇 -- vue.nextTick()浅析](https://mp.weixin.qq.com/s/tL7mk5yDqC0YcHXTtL9hNw)
+    vue.nextTick相关源码解析及macrotask、microtask的介绍。
