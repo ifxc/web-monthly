@@ -7,3 +7,6 @@
 
 #### [苏宁用户行为采集体系的演变](https://mp.weixin.qq.com/s/iUwqQxx87qQeRecjGxwTtg)
     本文介绍了苏宁团队在制定埋点规范、H5与native日志打通、埋点无痕化、日志传输与日志安全上的一些探索过程和经验。
+
+#### [如何在V8中优化JavaScript异步编程？](https://mp.weixin.qq.com/s/upBfLpz5Do8EKAXuUpep9g)
+    JavaScript异步及异步优化，涉及异步历史、异步改进、深入了解await...
