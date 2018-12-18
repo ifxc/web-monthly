@@ -8,3 +8,4 @@
 * [201809](https://github.com/ifxc/web-monthly/tree/master/201809)
 * [201810](https://github.com/ifxc/web-monthly/tree/master/201810)
 * [201811](https://github.com/ifxc/web-monthly/tree/master/201811)
+* [201812](https://github.com/ifxc/web-monthly/tree/master/201812)
