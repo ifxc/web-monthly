@@ -11,3 +11,6 @@
 
 #### [关键渲染路径](https://mp.weixin.qq.com/s/VPm771Xs2G4Vg3J8A2A11A)
     详细介绍了浏览器关键渲染路径的步骤，对js在关键渲染路径的阻塞问题及带来的性能影响进行了说明。
+
+#### [前端模块化详解(完整版)](https://mp.weixin.qq.com/s/MPEhWlS9KiIc9I6Of5GpOQ)
+    模块化的概述、历史进化过程、与模块化相关的规范等介绍。
