@@ -4,3 +4,6 @@
 
 #### [前端中的 IoC 理念](https://mp.weixin.qq.com/s/gMlJAOtFgUU1EqMbLAy35Q)
 控制反转（Inversion of Control）是一种「思想」，作者通过一个例子来解释IoC概念，让它变得容易理解。
+
+#### [JavaScript 代码简洁之道](https://juejin.im/post/5c24b7a851882509a76875e8)
+来自Github项目[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)的翻译文章，文章作者根据自己的理解对原文进行了一些修改。
