@@ -7,3 +7,6 @@
 
 #### [JavaScript 代码简洁之道](https://juejin.im/post/5c24b7a851882509a76875e8)
 来自Github项目[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)的翻译文章，文章作者根据自己的理解对原文进行了一些修改。
+
+#### [JavaScript 的数据类型及其检测](https://mp.weixin.qq.com/s/l4U4lVt_sz7lqT43aTuaTA)
+比较全的一篇数据类型基础知识介绍。
