@@ -10,3 +10,6 @@
 
 #### [JavaScript 的数据类型及其检测](https://mp.weixin.qq.com/s/l4U4lVt_sz7lqT43aTuaTA)
 比较全的一篇数据类型基础知识介绍。
+
+#### [必看！互联网开发模式的经验之谈](https://segmentfault.com/a/1190000017846590)
+虽然不是前端相关文章，但这篇互联网开发模式的经验之谈写得很好，值得推荐。
