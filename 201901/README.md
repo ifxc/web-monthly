@@ -13,3 +13,6 @@
 
 #### [必看！互联网开发模式的经验之谈](https://segmentfault.com/a/1190000017846590)
 虽然不是前端相关文章，但这篇互联网开发模式的经验之谈写得很好，值得推荐。
+
+#### [干货 | 携程机票Node.js开发实践](https://mp.weixin.qq.com/s/mCOHF2MMIOD4QZJzyfi7Vw)
+一篇携程机票技术栈变迁，在技术应用过程中遇到的问题，以及Node.js从早期的前后端分离到GraphQL的实践。
