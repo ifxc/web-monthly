@@ -16,3 +16,6 @@
 
 #### [干货 | 携程机票Node.js开发实践](https://mp.weixin.qq.com/s/mCOHF2MMIOD4QZJzyfi7Vw)
 一篇携程机票技术栈变迁，在技术应用过程中遇到的问题，以及Node.js从早期的前后端分离到GraphQL的实践。
+
+#### [Medium 架构实践：避免微服务综合症](https://www.infoq.cn/article/fv8tgq0VBeoToVT*TKy8)
+主要介绍单体Node.js应用程序如何有效实现微服务架构并避免微服务综合症的经验。
