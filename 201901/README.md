@@ -19,3 +19,6 @@
 
 #### [Medium 架构实践：避免微服务综合症](https://www.infoq.cn/article/fv8tgq0VBeoToVT*TKy8)
 主要介绍单体Node.js应用程序如何有效实现微服务架构并避免微服务综合症的经验。
+
+#### [2019 前端性能优化年度总结](https://github.com/xitu/gold-miner/blob/master/TODO1/front-end-performance-checklist-2019-pdf-pages-1.md)
+非常全面的前端性能优化指南，一共包括6个部分，这是第一部分。
