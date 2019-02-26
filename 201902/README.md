@@ -6,3 +6,6 @@
 #### [Node.js 中的依赖管理](https://mp.weixin.qq.com/s/cSHCKRdMPLKyPP_pOH3nkg)
 npm依赖管理的dependencies、devDependencies、peerDependencies、bundledDependencies、optionalDependencies使用场景介绍，
 以及版本号的写法和依赖管理的其它内容。
+
+#### [前端进击的巨人（一）：执行上下文与执行栈，变量对象](https://segmentfault.com/a/1190000017890535)
+文章有助于理解什么是执行上下文，详解了执行栈的规则和执行上下文的生命周期过程。
