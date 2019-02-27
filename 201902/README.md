@@ -9,3 +9,6 @@ npm依赖管理的dependencies、devDependencies、peerDependencies、bundledDep
 
 #### [前端进击的巨人（一）：执行上下文与执行栈，变量对象](https://segmentfault.com/a/1190000017890535)
 文章有助于理解什么是执行上下文，详解了执行栈的规则和执行上下文的生命周期过程。
+
+#### [如何编写高质量的函数 -- 函数底层篇](https://mp.weixin.qq.com/s/ZkdYbDA5phmKxfMA_N6E9w)
+文章分析了函数执行的机制，JS引擎是如何执行函数的，并对闭包、作用域、作用域链有深入理解。
