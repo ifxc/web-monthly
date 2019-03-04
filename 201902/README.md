@@ -12,3 +12,6 @@ npm依赖管理的dependencies、devDependencies、peerDependencies、bundledDep
 
 #### [如何编写高质量的函数 -- 函数底层篇](https://mp.weixin.qq.com/s/ZkdYbDA5phmKxfMA_N6E9w)
 文章分析了函数执行的机制，JS引擎是如何执行函数的，并对闭包、作用域、作用域链有深入理解。
+
+#### [NodeJS express框架核心原理全揭秘](https://zhuanlan.zhihu.com/p/56947560?utm_source=75weekly&utm_medium=75weekly)
+express框架源码分析及其中间件流程控制的实现。
