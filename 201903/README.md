@@ -13,3 +13,6 @@
 
 #### [Web 应用安全性: 使用这些 HTTP 头保护 Web 应用](https://segmentfault.com/a/1190000018463035)
 这是关于web安全性系列文章的第三篇，主要介绍与安全相关的HTTP头。
+
+#### [大前端时代，如何做好C 端业务下的React SSR？](https://mp.weixin.qq.com/s/zzKfcP8sNEU68-UOVIiDvg)
+在需要满足SEO并保证首屏渲染效率的情况下，Next.js同构开发是一个比较好实践。
