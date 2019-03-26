@@ -10,3 +10,6 @@
 
 #### [精读《Serverless 给前端带来了什么》](https://zhuanlan.zhihu.com/p/58877583)
 文章对Serverless进行了简单的概述，然后从前后端的视角讨论了Serverless给我们带来了些什么收益与挑战。
+
+#### [Web 应用安全性: 使用这些 HTTP 头保护 Web 应用](https://segmentfault.com/a/1190000018463035)
+这是关于web安全性系列文章的第三篇，主要介绍与安全相关的HTTP头。
