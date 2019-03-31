@@ -19,3 +19,6 @@
 
 #### [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://mp.weixin.qq.com/s/3G3VrG5VzOEBU5EcyCK7gg)
 关于虚拟DOM和DOM-diff的过程。
+
+#### [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/HIUtWfQg4uwvYPy9zpESNQ)
+详细的浏览器缓存说明书，从缓存位置、缓存过程、强缓存、协商缓存等方面详细地介绍了浏览器缓存机制。
