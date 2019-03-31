@@ -15,6 +15,3 @@ npm依赖管理的dependencies、devDependencies、peerDependencies、bundledDep
 
 #### [NodeJS express框架核心原理全揭秘](https://zhuanlan.zhihu.com/p/56947560?utm_source=75weekly&utm_medium=75weekly)
 express框架源码分析及其中间件流程控制的实现。
-
-#### [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://mp.weixin.qq.com/s/3G3VrG5VzOEBU5EcyCK7gg)
-关于虚拟DOM和DOM-diff的过程。

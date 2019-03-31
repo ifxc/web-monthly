@@ -16,3 +16,6 @@
 
 #### [大前端时代，如何做好C 端业务下的React SSR？](https://mp.weixin.qq.com/s/zzKfcP8sNEU68-UOVIiDvg)
 在需要满足SEO并保证首屏渲染效率的情况下，Next.js同构开发是一个比较好实践。
+
+#### [让虚拟DOM和DOM-diff不再成为你的绊脚石](https://mp.weixin.qq.com/s/3G3VrG5VzOEBU5EcyCK7gg)
+关于虚拟DOM和DOM-diff的过程。
