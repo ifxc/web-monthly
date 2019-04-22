@@ -7,3 +7,6 @@
 
 #### [GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s/Kq8Ev14zPWysB8AvL6E-OQ)
 本文介绍了Airbnb在Thrift和展现服务层框架的现有架构上，前后端如何进行合作，利用GraphQL和Thrift两者的优点，构建出更好的交互体验。
+
+#### [彻底终结 Javascript 背后的隐式类型转换](https://github.com/chunpu/blog/issues/104)
+从JS设计者的角度来聊聊隐式类型转换, 这样不需要背诵复杂冗长的ECMA规范了。
