@@ -4,3 +4,6 @@
 
 #### [中台微服务了，那前端呢？](https://mp.weixin.qq.com/s/hke92257-EB1ksrV6tb-mg)
 再谈微前端设计，本文通过保险订单销售模式设计案例来说明如何进行微前端设计，并最后总结了实施微前端的主要价值和意义。
+
+#### [GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s/Kq8Ev14zPWysB8AvL6E-OQ)
+本文介绍了Airbnb在Thrift和展现服务层框架的现有架构上，前后端如何进行合作，利用GraphQL和Thrift两者的优点，构建出更好的交互体验。
