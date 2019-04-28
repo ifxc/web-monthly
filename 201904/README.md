@@ -10,3 +10,6 @@
 
 #### [彻底终结 Javascript 背后的隐式类型转换](https://github.com/chunpu/blog/issues/104)
 从JS设计者的角度来聊聊隐式类型转换, 这样不需要背诵复杂冗长的ECMA规范了。
+
+#### [深入剖析 React Concurrent](https://zhuanlan.zhihu.com/p/60307571)
+从浏览器原理、Fiber基本概念及整体流程说起，通过Concurrent模式下任务的时间片拆分、中断、恢复和划分优先级，详细地剖析了Concurrent运行机制。
