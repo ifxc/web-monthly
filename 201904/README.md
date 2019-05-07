@@ -13,3 +13,9 @@
 
 #### [深入剖析 React Concurrent](https://zhuanlan.zhihu.com/p/60307571)
 从浏览器原理、Fiber基本概念及整体流程说起，通过Concurrent模式下任务的时间片拆分、中断、恢复和划分优先级，详细地剖析了Concurrent运行机制。
+
+#### [ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.im/post/5ca2e1935188254416288eb2)
+各版本特性一览，方便查阅和使用。
+
+#### [从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s/NQtcvn_B2gQkBJ5WjYxNHg)
+本文尝试从一些角度去给出自己的见解，为了说明构建这个领域前端技术体系的种种考虑，同时也会述及对应的业务特性。
