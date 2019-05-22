@@ -10,3 +10,6 @@
 
 #### [关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s/oF6oAjdzguv9OwE9cdLrPQ)
 本文从移动端适配的基础概念出发，探究移动端适配各种问题的解决方案和实现原理。
+
+#### [探索 Serverless 中的前端开发模式](https://mp.weixin.qq.com/s/Z2NDVA_UdsRCS8kgy8ejow)
+本文主要从前端开发模式的演进、基于 Serverless 的前端开发案例以及 Serverless 开发最佳实践等方面，探讨 Serverless 中的前端开发模式。
