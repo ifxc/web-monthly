@@ -13,3 +13,6 @@
 
 #### [探索 Serverless 中的前端开发模式](https://mp.weixin.qq.com/s/Z2NDVA_UdsRCS8kgy8ejow)
 本文主要从前端开发模式的演进、基于 Serverless 的前端开发案例以及 Serverless 开发最佳实践等方面，探讨 Serverless 中的前端开发模式。
+
+#### [时间切片（Time Slicing）](https://mp.weixin.qq.com/s/T72mOswfA8xTyd8Wq91Iiw)
+为了避免长任务，一种方案是使用Web Worker，将长任务放在Worker线程中执行，缺点是无法访问DOM，而另一种方案是使用基于Generator的时间切片。
