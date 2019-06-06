@@ -7,3 +7,4 @@
 * [201903](https://github.com/ifxc/web-monthly/tree/master/201903)
 * [201904](https://github.com/ifxc/web-monthly/tree/master/201904)
 * [201905](https://github.com/ifxc/web-monthly/tree/master/201905)
+* [201906](https://github.com/ifxc/web-monthly/tree/master/201906)
