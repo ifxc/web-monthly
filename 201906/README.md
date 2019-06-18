@@ -13,3 +13,6 @@
 
 #### [Vue Function-based API RFC](https://zhuanlan.zhihu.com/p/68477600)
 Vue 3.0重要的RFC，解释了设计动机和设计细节，对缺点或潜在问题进行了说明。
+
+#### [大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s/DVkrV_KKE9KaGSeUSenc6w)
+文章首先解释了微前端架构的定义，然后讨论集成微前端的各种方法，最后分享了要考虑的一些问题及应对对策。
