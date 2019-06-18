@@ -10,3 +10,6 @@
 
 #### [用 JS 开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s/t1NOzfGDARp1iYRVWhiAlA)
 作者对Electron的一次系统性的总结，文章对了解和入门Electron很有帮助。
+
+#### [Vue Function-based API RFC](https://zhuanlan.zhihu.com/p/68477600)
+Vue 3.0重要的RFC，解释了设计动机和设计细节，对缺点或潜在问题进行了说明。
