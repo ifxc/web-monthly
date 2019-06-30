@@ -19,3 +19,6 @@ Vue 3.0重要的RFC，解释了设计动机和设计细节，对缺点或潜在�
 
 #### [玉伯：从前端到体验，如何把格局做大](https://mp.weixin.qq.com/s/JXifreRbTQcFiLqSLTNtag)
 轻松一下，值得阅读。
+
+#### [揭秘 Vue 中的 Virtual Dom](https://mp.weixin.qq.com/s/JEBqzfTvxcLu8yWXZHxfZg)
+本文探讨了什么是Virtual DOM、作用是什么、为什么需要等问题。
