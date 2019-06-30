@@ -19,3 +19,6 @@
 
 #### [从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s/NQtcvn_B2gQkBJ5WjYxNHg)
 本文尝试从一些角度去给出自己的见解，为了说明构建这个领域前端技术体系的种种考虑，同时也会述及对应的业务特性。
+
+#### [揭秘 Vue 中的 Virtual Dom](https://mp.weixin.qq.com/s/JEBqzfTvxcLu8yWXZHxfZg)
+本文探讨了什么是Virtual DOM、作用是什么、为什么需要等问题。
