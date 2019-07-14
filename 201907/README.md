@@ -4,3 +4,6 @@
 
 #### [微前端如何落地？](https://mp.weixin.qq.com/s/EYJcIteI2FjbtUnZASPSoQ)
 关于设计微前端架构模式的讨论。
+
+#### [『多图警告』手撕排序算法 - 前端进阶必备](https://mp.weixin.qq.com/s/XS_0BInsefPxMcnnEmaxtw)
+常见的排序算法介绍。
