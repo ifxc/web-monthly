@@ -10,3 +10,6 @@
 
 #### [浏览器渲染基本原理解析](https://mp.weixin.qq.com/s/njwpsI-5T2mewPYjNef0jA)
 主要讲解了浏览器主要组成与浏览器线程、渲染过程、关键渲染路径与阻塞渲染，最后结合渲染流程，提出了可优化渲染性能的点。
+
+#### [深入浅出 Vue 响应式原理](https://mp.weixin.qq.com/s/6D3jTFEJ0FuHptjmeTjeNw)
+通俗易懂的Vue响应式原理，带你实现一个基础版的响应式系统。
