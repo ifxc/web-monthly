@@ -16,3 +16,6 @@
 
 #### [拆解 JavaScript 中的异步模式](https://mp.weixin.qq.com/s/6OxtIrwF8kRqlh1dddUbQg)
 本文通过各种异步模式之间的联系，梳理了各种异步模式的优缺点，相信你读完后对JS中的异步会有全新的认识。
+
+#### [Serverless，将给前端发展带来大变革的技术？](https://mp.weixin.qq.com/s/ooX7uMFjxFfSai9URo6kYw)
+本文将从前端的角度来看Serverless究竟是什么，Serverless的出现会给前端带来什么样的机遇和挑战，并以一个具体的项目为例说明如何基于Serverless实现项目功能。
