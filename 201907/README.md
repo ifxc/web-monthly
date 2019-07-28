@@ -13,3 +13,6 @@
 
 #### [深入浅出 Vue 响应式原理](https://mp.weixin.qq.com/s/6D3jTFEJ0FuHptjmeTjeNw)
 通俗易懂的Vue响应式原理，带你实现一个基础版的响应式系统。
+
+#### [拆解 JavaScript 中的异步模式](https://mp.weixin.qq.com/s/6OxtIrwF8kRqlh1dddUbQg)
+本文通过各种异步模式之间的联系，梳理了各种异步模式的优缺点，相信你读完后对JS中的异步会有全新的认识。
