@@ -19,3 +19,6 @@
 
 #### [Serverless，将给前端发展带来大变革的技术？](https://mp.weixin.qq.com/s/ooX7uMFjxFfSai9URo6kYw)
 本文将从前端的角度来看Serverless究竟是什么，Serverless的出现会给前端带来什么样的机遇和挑战，并以一个具体的项目为例说明如何基于Serverless实现项目功能。
+
+#### [Vue、React、Angular与应用绑定就是一场隐形灾害！](https://mp.weixin.qq.com/s/ATxG890mpBysnV0qQvdOOQ)
+框架绑定应用的问题，我还能做哪些事情？
