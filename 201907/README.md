@@ -22,3 +22,6 @@
 
 #### [Vue、React、Angular与应用绑定就是一场隐形灾害！](https://mp.weixin.qq.com/s/ATxG890mpBysnV0qQvdOOQ)
 框架绑定应用的问题，我还能做哪些事情？
+
+#### [你必须懂的前端性能优化](https://mp.weixin.qq.com/s/L2D5xyu37rWtTWpkUaQa2w)
+前端性能优化，从网络下的http优化、资源优化、渲染优化。
