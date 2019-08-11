@@ -11,3 +11,6 @@
 #### [WebAssembly到底处于编译阶段的哪个环节？](https://mp.weixin.qq.com/s/anaqamsHSzndny6jQR6cuw)
 本文首先介绍了编译步骤，然后回答了所提的问题。
 
+#### [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history#8K0JT)
+web开发的演进史。
+
