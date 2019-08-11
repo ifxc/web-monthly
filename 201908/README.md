@@ -14,3 +14,5 @@
 #### [Serverless For Frontend 前世今生](https://www.yuque.com/egg/nodejs/sff-history#8K0JT)
 web开发的演进史。
 
+#### [在框架设计中寻求平衡](https://zhuanlan.zhihu.com/p/76622839)
+有关框架设计中的的权衡，以及 Vue 是如何进行取舍的。
