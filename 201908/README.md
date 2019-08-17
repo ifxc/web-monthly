@@ -19,3 +19,6 @@ web开发的演进史。
 
 #### [大规模应用TypeScript「2019 JSConf -Brie Bunge」](https://juejin.im/post/5d5416226fb9a06b24431448)
 关于TypeScript在Airbnb大规模应用的分享。
+
+#### [AST与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b#heading-17)
+对AST的介绍，对recast库常见的一些API介绍，然后通过改造一个webpack loader来说明AST对前端工程化的一方面应用。
