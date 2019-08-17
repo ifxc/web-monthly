@@ -1,5 +1,5 @@
 # [web-monthly](https://share.istock.red/tag/frontend-monthly/)
-> 每当浏览到前端优质文章就忍不住收藏，于是顺手整理成前端月刊，记录并分享。
+> 每月前端优质文章，记录并分享。
 
 * [2018](https://github.com/ifxc/web-monthly/tree/master/2018)
 * [201901](https://github.com/ifxc/web-monthly/tree/master/201901)
