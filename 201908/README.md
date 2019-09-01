@@ -22,3 +22,6 @@ web开发的演进史。
 
 #### [AST与前端工程化实战](https://juejin.im/post/5d50d1d9f265da03aa25607b#heading-17)
 对AST的介绍，对recast库常见的一些API介绍，然后通过改造一个webpack loader来说明AST对前端工程化的一方面应用。
+
+#### [前端应该如何准备数据结构和算法？](https://mp.weixin.qq.com/s/BjYE0MiGaDU60i2J6chc5g)
+本文并没有对每个点进行深入的分析，而是对数据结构和算法建立一个较全面的认知体系，帮助读者掌握快速学习数据结构和算法的方法。
