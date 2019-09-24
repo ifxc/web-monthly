@@ -7,3 +7,6 @@
 
 #### [Google 官方-如何去做code review](https://mp.weixin.qq.com/s/As5RB6BTd3FU8ba0K9fMww)
 来自Google的code review实践。
+
+#### [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
+常规设计模式介绍。
