@@ -4,3 +4,6 @@
 
 #### [浏览器垃圾回收机制与 Vue 项目内存泄漏场景分析](https://mp.weixin.qq.com/s/kwHuP8qrruzUxC0vOKdJxA)
 浏览器垃圾回收机制的常规介绍以及Vue项目内存泄漏常见的场景总结。
+
+#### [Google 官方-如何去做code review](https://mp.weixin.qq.com/s/As5RB6BTd3FU8ba0K9fMww)
+来自Google的code review实践。
