@@ -13,3 +13,6 @@
 
 #### [蚂蚁金服Node.js基础服务 - 摸爬滚打才不负功名尘土](https://mp.weixin.qq.com/s/yJOEqsOEyv_wltAZ1uloRA)
 介绍了蚂蚁金服的Node基础服务历史，前端职责从前端组件框架到服务端，是不断前端提效、扩大前端能力的过程。
+
+#### [降低软件复杂性的一般原则和方法](https://segmentfault.com/a/1190000020476516#articleHeader1)
+解决软件复杂性的一些方法论。
