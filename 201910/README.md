@@ -16,3 +16,6 @@
 
 #### [现代浏览器观察者 Observer API 指南](https://mp.weixin.qq.com/s/I-p-pcfPDhAUKot6pdLSRg)
 交叉观察者、变动观察者、视图观察者、性能观察者的相关介绍。
+
+#### [「Shape Up」 适合中小团队的一种工作方式](https://mp.weixin.qq.com/s/bocJwWcgUvDcUaLbVTYqPg)
+VS Code团队类似的一种工作方法。
