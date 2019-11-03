@@ -19,3 +19,6 @@
 
 #### [「Shape Up」 适合中小团队的一种工作方式](https://mp.weixin.qq.com/s/bocJwWcgUvDcUaLbVTYqPg)
 VS Code团队类似的一种工作方法。
+
+#### [2019 JSConf China 《面向传统，Serverless 进化之路》分享文字版](https://zhuanlan.zhihu.com/p/87940654)
+阿里集团内部逐步迁移到 Serverless 体系的过程以及思考。
