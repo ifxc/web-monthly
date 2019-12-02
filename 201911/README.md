@@ -7,3 +7,6 @@
 
 #### [NGW，前端新技术赛场：Serverless SSR技术内幕](https://mp.weixin.qq.com/s/Hdhl9qRMbGQUccfIOb7sIQ)
 腾讯NOW直播IVWEB团队Serverless同构直出渲染方案实践。
+
+#### [JavaScript中的位运算和权限设计](https://mp.weixin.qq.com/s/caoHMRdCo_jZua40E768mQ)
+以Linux文件系统权限为例，介绍位运算在权限系统中的使用。
