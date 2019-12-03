@@ -16,3 +16,6 @@
 
 #### [浅析基于Serverless的前后端一体化框架](https://mp.weixin.qq.com/s/lmgjWsRI13PY5RWlbqVKrA)
 业务的开发模式发展是从一体到分裂为前后端，再到前后端融合为一体的过程，未来或涌现出基于Serverless的前后端一体化框架。
+
+#### [使用 Angular 打造微前端架构的 ToB 企业级应用](https://mp.weixin.qq.com/s/ochbPM5f84u-1BcNRXVOLA)
+本文主要介绍Angular打造微前端应用遇到的一些技术难点和相应的解决方案。
