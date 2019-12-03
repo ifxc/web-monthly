@@ -13,3 +13,6 @@
 
 #### [Design Token 是啥？](https://mp.weixin.qq.com/s/uVPjNKkymJ_bMLAKVEiixQ)
 一篇关于Design Token的介绍，它可以让产品设计团队更好地协作，同时保持产品跨平台的一致性。
+
+#### [浅析基于Serverless的前后端一体化框架](https://mp.weixin.qq.com/s/lmgjWsRI13PY5RWlbqVKrA)
+业务的开发模式发展是从一体到分裂为前后端，再到前后端融合为一体的过程，未来或涌现出基于Serverless的前后端一体化框架。
