@@ -13,3 +13,6 @@
 
 #### [Web性能领域常见的专业术语](https://github.com/berwin/Blog/issues/46)
 本章我们介绍了Web性能领域常见的专业术语，包括：FP、FCP、FMP、TTI、LCP、TTFB、FCI、FID、DCL、L、Speed Index。这些术语可以帮助我们理解性能报告给出的各种数据。
+
+#### [前端部署发展史](https://mp.weixin.qq.com/s/T_Uig7XAljyl4E4OjjtdCw)
+从刀耕火种到docker系列部署，再到集成docker的自动化部署。
