@@ -10,3 +10,6 @@
 
 #### [深入浅出Serverless：优势、意义与应用](https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg)
 本文主要介绍了Serverless的优势、适用场景、对前端开发者的意义、未来演化等。Serverless的出现，让前端转变为全栈工程师更为加容易。
+
+#### [Web性能领域常见的专业术语](https://github.com/berwin/Blog/issues/46)
+本章我们介绍了Web性能领域常见的专业术语，包括：FP、FCP、FMP、TTI、LCP、TTFB、FCI、FID、DCL、L、Speed Index。这些术语可以帮助我们理解性能报告给出的各种数据。
