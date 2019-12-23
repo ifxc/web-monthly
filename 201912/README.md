@@ -16,3 +16,6 @@
 
 #### [前端部署发展史](https://mp.weixin.qq.com/s/T_Uig7XAljyl4E4OjjtdCw)
 从刀耕火种到docker系列部署，再到集成docker的自动化部署。
+
+#### [万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
+本文从市面主流的浏览器及相应的内核引擎开始，介绍了Chromium为代表的浏览器架构及Blink内核的功能架构。
