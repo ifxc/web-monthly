@@ -16,3 +16,6 @@
 
 #### [前端部署发展史](https://mp.weixin.qq.com/s/T_Uig7XAljyl4E4OjjtdCw)
 从刀耕火种到docker系列部署，再到集成docker的自动化部署。
+
+#### [从 React 历史的长河里聊虚拟DOM及其价值](https://mp.weixin.qq.com/s/1xZkyuKOu8dTWJihY7cmkg)
+通过从React历史来看它的价值，从而更好地理解虚拟DOM的价值所在。
