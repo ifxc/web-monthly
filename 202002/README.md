@@ -5,3 +5,6 @@
 
 #### [Dan Abramov：我的十年回顾](https://mp.weixin.qq.com/s/3WgFRvvz3huZ85O4WPy81Q)
 Dan Abramov的十年回顾。(Dan Abramov：React核心开发，Redux作者)
+
+#### [深入浅出分布式唯一ID](https://juejin.im/post/5e43b22251882549361e4be4)
+分布式唯一ID和snowflake雪花算法介绍
