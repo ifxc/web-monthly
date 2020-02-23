@@ -10,3 +10,6 @@ Dan Abramov的十年回顾。(Dan Abramov：React核心开发，Redux作者)
 
 #### [爱奇艺号如何基于Vue定制开发微前端框架？](https://mp.weixin.qq.com/s/z3Ir-RnPQGXGRh6pDTu8IA)
 此文从偏向实践的方面来简要介绍爱奇艺号基于Vue定制的微前端框架实现原理。
+
+#### [前端 DSL 实践指南（上）—— 内部 DSL](https://zhuanlan.zhihu.com/p/107947462)
+本文主要针对内部DSL这个重要分支在前端的实践做了展开说明，并结合Javascript和前端领域的一些典型范例阐述了8种实现风格，以及在实践内部DSL过程中的一些问题。
