@@ -16,3 +16,6 @@ Dan Abramov的十年回顾。(Dan Abramov：React核心开发，Redux作者)
 
 #### [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
 从背景到微前端方案落地，详细地介绍了微前端在美团外卖商家广告端的实践过程。
+
+#### [写给大忙人看的操作系统](https://juejin.im/post/5e58905f6fb9a07caa270bb0)
+操作系统相关知识速食。
