@@ -13,3 +13,6 @@ Dan Abramov的十年回顾。(Dan Abramov：React核心开发，Redux作者)
 
 #### [前端 DSL 实践指南（上）—— 内部 DSL](https://zhuanlan.zhihu.com/p/107947462)
 本文主要针对内部DSL这个重要分支在前端的实践做了展开说明，并结合Javascript和前端领域的一些典型范例阐述了8种实现风格，以及在实践内部DSL过程中的一些问题。
+
+#### [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
+从背景到微前端方案落地，详细地介绍了微前端在美团外卖商家广告端的实践过程。
