@@ -7,3 +7,6 @@
 
 #### [WebAssembly 与 Kubernetes双剑合璧](https://developer.aliyun.com/article/744310)
 WebAssembly技术已经走出浏览器，让计算无处不在。利用containerd的扩展机制，可以为WebAssembly应用提供与其他容器应用一致的、抽象的、应用分发、交付和运维模型，可以在Kubernetes集群中进行统一调度和管理。
+
+#### [如何设计大型前端团队基建路线](https://mp.weixin.qq.com/s/CF-iZ1NCT1AkihCuyffbUA)
+主要分享阿里妈妈团队多年积累下来的前端基础设施相关方面的一些成果和心得。
