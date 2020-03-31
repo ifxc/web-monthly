@@ -10,3 +10,6 @@ WebAssembly技术已经走出浏览器，让计算无处不在。利用container
 
 #### [如何设计大型前端团队基建路线](https://mp.weixin.qq.com/s/CF-iZ1NCT1AkihCuyffbUA)
 主要分享阿里妈妈团队多年积累下来的前端基础设施相关方面的一些成果和心得。
+
+#### [精读《Webpack5 新特性 - 模块联邦》](https://mp.weixin.qq.com/s/b5Gl_1yX1enktU9oulO9zg)
+了解什么是Webpack5“模块联邦”功能。
