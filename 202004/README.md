@@ -10,3 +10,6 @@
 
 #### [微前端在企业级应用中的实践(上)](https://mp.weixin.qq.com/s/tutFXv6djecT6lnL9Je71Q)
 本文讲述了微前端的起源以及web应用的多种集成方式，然后讲述DevUI的web集成模式案例，最后对single-spa进行了原理分析。
+
+#### [Serverless 的喧哗与骚动](https://mp.weixin.qq.com/s/8Nu_p-ZcBuIcUcGEVnYW4A)
+本文分享阿里高级技术专家对Serverless行业发展现状的一些看法。
