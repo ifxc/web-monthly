@@ -12,3 +12,6 @@
 
 #### [2020前端性能优化清单之五](https://mp.weixin.qq.com/s/VDARTCShm0KivV_ouYvVGA)
 这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍传输优化。
+
+#### [2020前端性能优化清单之六](https://mp.weixin.qq.com/s/GHUMw2RFK-sXklJTPqoMdg)
+这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍网络与http/2和最后的总结。
