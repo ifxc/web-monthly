@@ -9,3 +9,6 @@
 
 #### [2020前端性能优化清单之四](https://mp.weixin.qq.com/s/i5fNnTnmfAx7CufC00oaKQ)
 这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍构建优化（针对引擎优化、SSR、CSR）。
+
+#### [2020前端性能优化清单之五](https://mp.weixin.qq.com/s/VDARTCShm0KivV_ouYvVGA)
+这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍传输优化。
