@@ -1,3 +1,6 @@
+#### [Serverless 服务选型](https://mp.weixin.qq.com/s/gAdRoB0PZdlnu5Aa0IQaUA)
+本篇文章尝试以日常开发流程为起点，分析每个阶段面对的问题，然后提炼面向 Serverless 的开发模型，为开发者采用 Serverless 架构和服务提供参考。
+
 #### [2020前端性能优化清单之一](https://mp.weixin.qq.com/s/iIbm1pVPYsOvpAeAjVziiQ)
 这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍准备工作、选择正确的指标、定义环境。
 
