@@ -15,3 +15,6 @@
 
 #### [2020前端性能优化清单之六](https://mp.weixin.qq.com/s/GHUMw2RFK-sXklJTPqoMdg)
 这份前端性能优化清单自2016年开始已经持续更新了5年。本章介绍网络与http/2和最后的总结。
+
+#### [注重产品思维的软件工程师](https://mp.weixin.qq.com/s/89NCik7xsS4zaDEvRHZdOA)
+成为一个更有产品意识的工程师的建议。
