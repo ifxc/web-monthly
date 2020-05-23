@@ -27,3 +27,6 @@ Facebook性能优化和用户体验改善案例。
 
 #### [Serverless 掀起新的前端技术变革](https://mp.weixin.qq.com/s/Aygcakz8bIDNhkevpkVv0w)
 从前端开发模式的演进、基于 Serverless 的前端开发案例以及 Serverless 开发最佳实践等方面，与大家探讨 Serverless 中的前端开发模式。
+
+#### [HTTP/3原理与实践](https://mp.weixin.qq.com/s/Y7v738Zeir3cZMxthjUY_Q)
+本文基于 QQ兴趣部落接入 HTTP/3 的实践，聊一聊 HTTP/3 的原理以及业务接入的方式。
