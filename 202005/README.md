@@ -36,3 +36,6 @@ Facebook性能优化和用户体验改善案例。
 
 #### [深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系](https://mp.weixin.qq.com/s/ynLq8MjRLqX6uaYbK17n_Q)
 从规范解读入手，深挖底层，深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系。
+
+#### [前端状态管理设计——优雅与妥协的艺术](https://cdc.tencent.com/2020/05/22/frontend-state-management-research/)
+前端状态管理发展史及探讨相关解决方案的一些妥协。
