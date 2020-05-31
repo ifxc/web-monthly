@@ -39,3 +39,6 @@ Facebook性能优化和用户体验改善案例。
 
 #### [前端状态管理设计——优雅与妥协的艺术](https://cdc.tencent.com/2020/05/22/frontend-state-management-research/)
 前端状态管理发展史及探讨相关解决方案的一些妥协。
+
+#### [面向 Model 编程的前端架构设计](https://mp.weixin.qq.com/s/peLNXa_PLQTfhTtLya3cpg)
+携程前端架构设计如何从 Backbone.js 走到 Pure-Model + Monorepo + GraphQL-BFF + React-Native/React-IMVC 的模式，并呈现了在每个阶段我们所面对的问题、所作的思考和最终的选择。
