@@ -9,3 +9,6 @@
 
 #### [前端架构101：MVC的不足与Flux的崛起](https://mp.weixin.qq.com/s/BB1VUmtQ5uBJ7VSnRf11ZQ)
 前端架构系列，本文作为系列的第四篇《MVC的不足与Flux的崛起》。
+
+#### [深入理解 Vue3 Reactivity API](https://zhuanlan.zhihu.com/p/146097763)
+Vue3 Reactivity API的说明书。
