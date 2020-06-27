@@ -12,3 +12,6 @@
 
 #### [深入理解 Vue3 Reactivity API](https://zhuanlan.zhihu.com/p/146097763)
 Vue3 Reactivity API的说明书。
+
+#### [前端架构101：从 Flux 进化到 Model-View-Presenter](https://mp.weixin.qq.com/s/jB3POItNJ-MjI_Ubeu_Dfw)
+前端架构系列，本文作为系列的第五篇《MVP》。
