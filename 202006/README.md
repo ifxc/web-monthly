@@ -21,3 +21,6 @@ Vue3 Reactivity API的说明书。
 
 #### [一文助你搞懂 AST](https://mp.weixin.qq.com/s/9FLkAmeBH18QjlZPztPc8Q)
 从介绍AST和babel工作原理到编写自己的AST插件。
+
+#### [前端架构 101（六）：整洁（Clean Architecture）架构是归宿](https://zhuanlan.zhihu.com/p/150370776)
+前端架构系列，本文作为系列的第六篇《整洁架构》。
