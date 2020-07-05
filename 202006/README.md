@@ -15,3 +15,6 @@ Vue3 Reactivity API的说明书。
 
 #### [前端架构101：从 Flux 进化到 Model-View-Presenter](https://mp.weixin.qq.com/s/jB3POItNJ-MjI_Ubeu_Dfw)
 前端架构系列，本文作为系列的第五篇《MVP》。
+
+#### [如何设计微前端中的主子路由调度](https://mp.weixin.qq.com/s/TAXP7ipDdtb2Jb-L3QHszA)
+微前端设计中的路由问题讨论和解决方案。
