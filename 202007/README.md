@@ -6,3 +6,6 @@
 
 #### [《编程时间简史系列》Web Server 编年史](https://segmentfault.com/a/1190000023050141)
 本文将会讲述 Web 服务端技术的萌芽和演进过程，旨在使读者能更清晰地掌握 Web 服务端技术的发展脉络。
+
+#### [前端架构鉴赏01：Angular 架构模式与最佳实践](https://mp.weixin.qq.com/s/gz98PLI4ne1-AAa-MMC6aw)
+本文讲述了设计Angular应用架构的一些思路。
