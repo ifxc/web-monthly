@@ -9,3 +9,6 @@
 
 #### [前端架构鉴赏01：Angular 架构模式与最佳实践](https://mp.weixin.qq.com/s/gz98PLI4ne1-AAa-MMC6aw)
 本文讲述了设计Angular应用架构的一些思路。
+
+#### [前端架构鉴赏02：可拓展 Angular 2 架构](https://mp.weixin.qq.com/s/4bd-xkyus-tNuylTBm_tGw)
+关于编写具有可拓展性和可维护性单页面应用的指南。
