@@ -12,3 +12,6 @@
 
 #### [前端架构鉴赏02：可拓展 Angular 2 架构](https://mp.weixin.qq.com/s/4bd-xkyus-tNuylTBm_tGw)
 关于编写具有可拓展性和可维护性单页面应用的指南。
+
+#### [前端架构鉴赏03：Angular 与 MVP 模式](https://mp.weixin.qq.com/s/7uYxFxbvcZS4wjbWPVmGpg)
+MVP模式应用到Angular中的实践。
