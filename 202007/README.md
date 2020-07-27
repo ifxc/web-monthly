@@ -15,3 +15,6 @@
 
 #### [前端架构鉴赏03：Angular 与 MVP 模式](https://mp.weixin.qq.com/s/7uYxFxbvcZS4wjbWPVmGpg)
 MVP模式应用到Angular中的实践。
+
+#### [Web Worker 文献综述](https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ)
+一篇非常详细的Web Worker相关文章。
