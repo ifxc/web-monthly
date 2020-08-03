@@ -18,3 +18,6 @@ MVP模式应用到Angular中的实践。
 
 #### [Web Worker 文献综述](https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ)
 一篇非常详细的Web Worker相关文章。
+
+#### [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://zhuanlan.zhihu.com/p/164558106)
+一篇基于富文本编辑器搭建可视化页面的文章，作者从自研的「可视化页面搭建系统」入手，就探索阶段到成熟阶段的演进历史进行了详细介绍。
