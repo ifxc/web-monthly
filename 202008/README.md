@@ -6,3 +6,6 @@
 
 #### [语雀的技术架构演进之路](https://mp.weixin.qq.com/s/VM61gkZuYYqE4pVhpba3nQ)
 本文从技术架构的视角，回顾了语雀的原型、内部服务和对外商业化的全过程，并对函数计算在语雀架构演进过程中所扮演的角色做了详细的介绍。
+
+#### [这才是真正的Git——Git内部原理揭秘！](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
+本文以一个具体例子结合动图介绍了Git的内部原理，包括Git是什么储存我们的代码和变更历史的、更改一个文件时，Git内部是怎么变化的、Git这样实现的有什么好处等等。
