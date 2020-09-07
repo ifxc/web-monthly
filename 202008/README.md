@@ -12,3 +12,6 @@
 
 #### [细说 SOLID 原则](https://mp.weixin.qq.com/s/PwO4ymEKabk74a7J8lAhdg)
 本文从 SOLID 原则出发，通过更贴近业务的解释性文字和具体的代码示例来回答这些问题。
+
+#### [VSCode源码解读--IPC通信机制](https://mp.weixin.qq.com/s/5ZLWiIakR5mvhxhddb04yQ)
+本文记录研究VSCode中通信机制的过程，主要包括IPC通信机制。
