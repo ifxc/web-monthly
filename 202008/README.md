@@ -9,3 +9,6 @@
 
 #### [这才是真正的Git——Git内部原理揭秘！](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
 本文以一个具体例子结合动图介绍了Git的内部原理，包括Git是什么储存我们的代码和变更历史的、更改一个文件时，Git内部是怎么变化的、Git这样实现的有什么好处等等。
+
+#### [细说 SOLID 原则](https://mp.weixin.qq.com/s/PwO4ymEKabk74a7J8lAhdg)
+本文从 SOLID 原则出发，通过更贴近业务的解释性文字和具体的代码示例来回答这些问题。
