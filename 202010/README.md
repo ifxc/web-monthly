@@ -6,3 +6,6 @@
 
 #### [前端中台化，把格局做大——NodeJS 和测试服务探索](https://mp.weixin.qq.com/s/3Ukere2IY8T624WRFgspWg)
 这篇文章我们介绍了 NodeJS 助力传统端到端测试，最终实现破局和创新的双赢项目案例。
+
+#### [前端模块化的十年征程](https://mp.weixin.qq.com/s/oYQf_m-TvH2txc1AfAvtsA)
+从前端模块化的时间线出发，介绍前端模块化是如何演进。
