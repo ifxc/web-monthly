@@ -15,3 +15,6 @@
 
 #### [权威指南：Serverless 未来十年发展解读（下）](https://mp.weixin.qq.com/s/dLxqZyHGC1K2sz-bYcPrNg)
 Serverless 未来十年发展解读（下）
+
+#### [改变世界的一次代码提交](https://hutusi.com/articles/the-greatest-git-commit)
+Git 第一次提交的源代码分析及带来的启示
