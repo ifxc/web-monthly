@@ -9,3 +9,9 @@
 
 #### [前端模块化的十年征程](https://mp.weixin.qq.com/s/oYQf_m-TvH2txc1AfAvtsA)
 从前端模块化的时间线出发，介绍前端模块化是如何演进。
+
+#### [权威指南：Serverless 未来十年发展解读（上）](https://mp.weixin.qq.com/s/AqO8ao4bVBwmRGf4wdK09g)
+本文整理自 Johann Schleier-Smith 在 ServerlessDays China 的演讲，是来自加州大学伯克利分校计算机科学 Riselab 团队的研究成果。
+
+#### [权威指南：Serverless 未来十年发展解读（下）](https://mp.weixin.qq.com/s/dLxqZyHGC1K2sz-bYcPrNg)
+Serverless 未来十年发展解读（下）
