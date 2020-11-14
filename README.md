@@ -1,6 +1,7 @@
 # [web-monthly](https://share.istock.red/tag/frontend-monthly/)
 > 每月前端优质文章，记录并分享。
 
+* [202011](https://github.com/ifxc/web-monthly/tree/master/202011)
 * [202010](https://github.com/ifxc/web-monthly/tree/master/202010)
 * [202009](https://github.com/ifxc/web-monthly/tree/master/202009)
 * [202008](https://github.com/ifxc/web-monthly/tree/master/202008)
