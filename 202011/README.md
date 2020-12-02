@@ -13,3 +13,6 @@
 #### [谈谈微前端领域的js沙箱实现机制](https://mp.weixin.qq.com/s/IJMgMO1IeYw2Io8MN7WZWQ)
 微前端js沙箱实现机制的主流实现方案。
 
+#### [揭秘webpack插件工作流程和原理](https://mp.weixin.qq.com/s/N3llkDJv6ze5bs6FnpZtrA)
+本文将尝试探索 webpack 插件的工作流程，进而去揭秘它的工作原理。
+
