@@ -7,3 +7,6 @@
 #### [大规模采用 TypeScript 之后的 10 个见解](https://mp.weixin.qq.com/s/nWhdJm2jaSqvm2S0f5i0Eg)
 在这篇文章中，将分享彭博社工程部采用TypeScript作为首选开发语言，在迁移过程中学到的经验教训以及一些见解。
 
+#### [滨江前端沙龙分享：前端团队研发效能提升的探索与实践](https://www.yuque.com/lizhiyao/dxydance/kikle8)
+丁香园前端团队研发效能提升的探索与实践。
+
