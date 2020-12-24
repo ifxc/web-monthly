@@ -12,3 +12,6 @@
 
 #### [EMP微前端解决方案](https://mp.weixin.qq.com/s/l0-uCLFRcBBrs4yTiAvryg)
 来自欢聚时代EMP微前端解决方案的介绍和具体的实战情况。
+
+#### [2020年大前端技术趋势解读](https://mp.weixin.qq.com/s/slghkDUyng7tOha3JFzeCQ)
+IMWeb团队为大家带来的2020年大前端技术趋势解读。
