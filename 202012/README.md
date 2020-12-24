@@ -10,3 +10,5 @@
 #### [滨江前端沙龙分享：前端团队研发效能提升的探索与实践](https://www.yuque.com/lizhiyao/dxydance/kikle8)
 丁香园前端团队研发效能提升的探索与实践。
 
+#### [EMP微前端解决方案](https://mp.weixin.qq.com/s/l0-uCLFRcBBrs4yTiAvryg)
+来自欢聚时代EMP微前端解决方案的介绍和具体的实战情况。
