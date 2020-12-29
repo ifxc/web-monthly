@@ -15,3 +15,6 @@
 
 #### [2020年大前端技术趋势解读](https://mp.weixin.qq.com/s/slghkDUyng7tOha3JFzeCQ)
 IMWeb团队为大家带来的2020年大前端技术趋势解读。
+
+#### [产品设计方法与实践](https://mp.weixin.qq.com/s/Sv2sKHuJ3nQOvdtvPirAuw)
+本文将分四个部分介绍产品设计的目标、职责、方法与实践，分享一些让方法行之有效的心得与体会。
