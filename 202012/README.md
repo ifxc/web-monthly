@@ -18,3 +18,6 @@ IMWeb团队为大家带来的2020年大前端技术趋势解读。
 
 #### [产品设计方法与实践](https://mp.weixin.qq.com/s/Sv2sKHuJ3nQOvdtvPirAuw)
 本文将分四个部分介绍产品设计的目标、职责、方法与实践，分享一些让方法行之有效的心得与体会。
+
+#### [关于中台的思考和尝试](https://mp.weixin.qq.com/s/qzvf4wZCDfHvATdz7KAgSg)
+本文从中台的定义出发，介绍了中台的本质、中台的合理组织机制及演进机制，最后分享了车好多在中台的实践。
