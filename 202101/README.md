@@ -7,3 +7,6 @@ CSS现状和如何学习，希望对于新接触CSS或对CSS感兴趣的同学�
 
 #### [了不起的 JavaScript 内存学习指南](https://mp.weixin.qq.com/s/9yibACTP1sTAn16jeWueOQ)
 本文主要包含两大部分：JavaScript内存详解和内存分析指南。
+
+#### [RxJS：给你如丝一般顺滑的编程体验](https://mp.weixin.qq.com/s/KaLjNOAOW7OY0TvMVL3q3g)
+RxJS相关说明书。
