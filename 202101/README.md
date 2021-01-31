@@ -10,3 +10,6 @@ CSS现状和如何学习，希望对于新接触CSS或对CSS感兴趣的同学�
 
 #### [RxJS：给你如丝一般顺滑的编程体验](https://mp.weixin.qq.com/s/KaLjNOAOW7OY0TvMVL3q3g)
 RxJS相关说明书。
+
+#### [探索 Vue.js 响应式原理](https://mp.weixin.qq.com/s/NPattmffIkLh02vtXIxeAQ)
+本文首先通过回顾观察者模式和 Object.defineProperty() 方法，介绍 Vue.js 响应式原理的核心知识点，然后带大家实现一个简单响应式的示例。
