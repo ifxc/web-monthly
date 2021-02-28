@@ -16,3 +16,6 @@ Cookie、Web Storage、IndexedDB这三种方案的历史，优缺点，以及各
 
 #### [前端优秀实践不完全指南](https://juejin.cn/post/6932647134944886797)
 Web 用户体验设计提升指南。
+
+#### [奇怪的知识——位掩码](https://mp.weixin.qq.com/s/zT4dZPYN3vYMRABWkH5SFQ)
+位掩码相关知识介绍和应用。
