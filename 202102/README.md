@@ -10,3 +10,6 @@ Cookie、Web Storage、IndexedDB这三种方案的历史，优缺点，以及各
 
 #### [有道云笔记新版编辑器架构设计（下）](https://mp.weixin.qq.com/s/KdENFoibo54ys_NamOKgIg)
 有道云笔记新版编辑器架构设计细节。
+
+#### [TypeScript 高级用法](https://juejin.cn/post/6926794697553739784)
+本文主要介绍 TypeScript 的高级用法，适用于对 TypeScript 已经有所了解或者已经实际用过一段时间的同学。
