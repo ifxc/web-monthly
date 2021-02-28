@@ -14,5 +14,3 @@ RxJS相关说明书。
 #### [探索 Vue.js 响应式原理](https://mp.weixin.qq.com/s/NPattmffIkLh02vtXIxeAQ)
 本文首先通过回顾观察者模式和 Object.defineProperty() 方法，介绍 Vue.js 响应式原理的核心知识点，然后带大家实现一个简单响应式的示例。
 
-#### [前端优秀实践不完全指南](https://juejin.cn/post/6932647134944886797)
-Web 用户体验设计提升指南
