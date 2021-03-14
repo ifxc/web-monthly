@@ -5,3 +5,6 @@
 #### [Node.js 并发能力总结](https://mp.weixin.qq.com/s/cXwM_ENAjxvvwaBHEsuHbA)
 Node.js有多重并发的能力，包括单线程异步、多线程、多进程等，这些能力可以根据业务进行不同选择，帮助提高代码的运行效率。
 
+#### [Flexbox布局中不为人知的细节](https://mp.weixin.qq.com/s/KIqcUSxhCYEcfGVHPf5Gkg)
+这篇笔记涉及到了Flexbox规范中的大部分内容以及一些临界点，非常细节。
+
