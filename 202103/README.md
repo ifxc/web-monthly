@@ -17,3 +17,6 @@ Node.js有多重并发的能力，包括单线程异步、多线程、多进程�
 #### [美团面试官：你可以手写Vue3的响应式原理吗？](https://mp.weixin.qq.com/s/PYYeisLy0Ht5aSih51bc0A)
 Vue3中关于响应式以及依赖收集的相关原理，手写实现一个简易的版本。
 
+#### [Babel原理](https://mp.weixin.qq.com/s/kI9nm5_hpTvGHHE61fzHNQ)
+Babel的运行原理及实践开发插件。
+
