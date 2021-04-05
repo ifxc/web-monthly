@@ -14,3 +14,6 @@ Node.js有多重并发的能力，包括单线程异步、多线程、多进程�
 #### [聊聊编程范式](https://mp.weixin.qq.com/s/bq9186CQXs8eu8ZsMEuDbA)
 三大编程范式（结构化编程、面向对象编程、函数式编程）的介绍及它们之间的关系。
 
+#### [美团面试官：你可以手写Vue3的响应式原理吗？](https://mp.weixin.qq.com/s/PYYeisLy0Ht5aSih51bc0A)
+Vue3中关于响应式以及依赖收集的相关原理，手写实现一个简易的版本。
+
