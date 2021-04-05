@@ -20,3 +20,6 @@ Vue3中关于响应式以及依赖收集的相关原理，手写实现一个简�
 #### [Babel原理](https://mp.weixin.qq.com/s/kI9nm5_hpTvGHHE61fzHNQ)
 Babel的运行原理及实践开发插件。
 
+#### [我对 Svelte 的看法](https://lutaonan.com/blog/svelte/)
+本文试图通过告诉读者 Svelte 在编译阶段做了什么，来让只听说过 Svelte 的读者，从浅层的原理和设计的角度，了解到 Svelte 是一个怎么样的框架、她和其它框架的区别是什么。
+
