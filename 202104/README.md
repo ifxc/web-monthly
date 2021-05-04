@@ -13,3 +13,6 @@ Vuex源码详细解析及阅读过程分享。
 
 #### [ToB 前端 CI/CD 建设实践](https://mp.weixin.qq.com/s/REZ6qARsLpkKEU-bRSituA)
 本文以百度ToB产品工程化为背景，介绍前端在CI/CD方面最佳实践。CI/CD由一系列技术组成，除说明What和How外，更希望从价值收益上说明Why。
+
+#### [Streams 权威指南](https://mp.weixin.qq.com/s/Kg2w5V26brFHsQkJK4-SrQ)
+Streams核心概念介绍及相关示例。
