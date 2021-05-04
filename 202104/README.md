@@ -10,3 +10,6 @@ Vuex源码详细解析及阅读过程分享。
 
 #### [1.5 万字 CSS 基础拾遗](https://mp.weixin.qq.com/s/fwlH6gfE7Mm7dwfhngqksA)
 本篇文章围绕了 CSS 的核心知识点和项目中常见的需求来展开。
+
+#### [ToB 前端 CI/CD 建设实践](https://mp.weixin.qq.com/s/REZ6qARsLpkKEU-bRSituA)
+本文以百度ToB产品工程化为背景，介绍前端在CI/CD方面最佳实践。CI/CD由一系列技术组成，除说明What和How外，更希望从价值收益上说明Why。
