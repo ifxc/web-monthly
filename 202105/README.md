@@ -7,3 +7,6 @@ Webpack核心原理解析，包括核心流程解析、生成阶段、资源形�
 
 #### [写给前端的编译原理科普](https://mp.weixin.qq.com/s?__biz=MzkzMTIzMDUwMg==&mid=2247483791&idx=1&sn=d464ad02807f21e211238a50e30a6126&scene=21#wechat_redirect)
 前端编译原理科普介绍。
+
+#### [突破web 应用研发效能的叹息之墙](https://mp.weixin.qq.com/s/XVawCaepXwe9LVhYi3KrtA)
+这篇文章的内容分成两个部分： 对架构的关键部分的详细设计以及实现，架构对对工程质量、项目管理产生的意义
