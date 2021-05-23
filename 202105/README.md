@@ -13,3 +13,6 @@ Webpack核心原理解析，包括核心流程解析、生成阶段、资源形�
 
 #### [JavaScript Debugger 原理揭秘](https://mp.weixin.qq.com/s?__biz=MzkzMTIzMDUwMg==&mid=2247483928&idx=1&sn=6994dafe84794d910206dc471d135176&scene=21#wechat_redirect)
 本文介绍了 debugger 的实现原理和暴露出的调试协议。
+
+#### [送给前端 er 一份 HTTP 基础知识大图](https://mp.weixin.qq.com/s/3kR3Ptb2uiQ1sKlnnTr6mQ)
+HTTP基础知识相关内容总结。
