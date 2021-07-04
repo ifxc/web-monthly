@@ -10,3 +10,6 @@ js代码的执行，主要分为两个阶段：编译阶段、执行阶段!本�
 
 #### [业务中的前端组件化体系](https://mp.weixin.qq.com/s/z2nfgAmSd09P3piqNAUdVw)
 本文试图围绕“在一个业务体系中，组件化体系到底应该如何去做？”给出一些可能的解决思路。
+
+#### [大型前端项目 DevOps 沉思录 —— CI 篇](https://mp.weixin.qq.com/s/YyZvpiBD34VY-VZnjDtGoQ)
+本篇文章将着重探讨 DevOps 在 持续集成阶段 需要提供的能力，将对工作流的设计及流水线的优化思路做一个简要讲解。
