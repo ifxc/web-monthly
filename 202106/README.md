@@ -7,3 +7,6 @@ WebContainers介绍。
 
 #### [详解JavaScript执行过程](https://mp.weixin.qq.com/s/EWAcPO5CbdoYAm0HQpRl_g)
 js代码的执行，主要分为两个阶段：编译阶段、执行阶段!本文详细解读了JavaScript的执行过程（本文所有内容基于V8引擎）。
+
+#### [业务中的前端组件化体系](https://mp.weixin.qq.com/s/z2nfgAmSd09P3piqNAUdVw)
+本文试图围绕“在一个业务体系中，组件化体系到底应该如何去做？”给出一些可能的解决思路。
