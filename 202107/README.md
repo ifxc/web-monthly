@@ -6,3 +6,6 @@
 
 #### [抽象泄漏（Leaky Abstractions）](https://mp.weixin.qq.com/s/KneomYX_7yQ78RzAmvIoHg)
 这篇文章将会介绍：什么是抽象泄漏法则、抽象机制如何“泄漏”、开发者如何应对抽象泄漏。
+
+#### [你可能并不需要微前端](https://mp.weixin.qq.com/s/khrziHjDfgGS4GgHa6qQJg)
+本文梳理了作者对微前端的相关观点，然后概况了什么场景可能需要微前端，什么场景可能不需要微前端。
