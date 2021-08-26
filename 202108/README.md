@@ -5,4 +5,7 @@
 关于provider模式的介绍和前端具体应用。
 
 #### [适合初学者的树](https://mp.weixin.qq.com/s/dklzY2IwIRbiWGYtnvnjXw)
-非线性结构树的相关介绍
+非线性结构树的相关介绍。
+
+#### [尤雨溪国外教程：亲手带你写个简易版的 Vue！](https://mp.weixin.qq.com/s/0oUkdqj9jE9IEQic8QrfyA)
+用中文为大家讲解vue简易版源码。
