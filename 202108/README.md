@@ -9,3 +9,6 @@
 
 #### [尤雨溪国外教程：亲手带你写个简易版的 Vue！](https://mp.weixin.qq.com/s/0oUkdqj9jE9IEQic8QrfyA)
 用中文为大家讲解vue简易版源码。
+
+#### [15张图，20分钟吃透Diff算法核心原理 ](https://mp.weixin.qq.com/s/ItHi1Vj6DPxtn8DjqJyCLw)
+15张图，用通俗的方式来讲解Diff算法。
